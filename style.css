@@ -1,0 +1,29 @@
+.buttons {
+    border-style: double;
+    border-color: blue;
+    background-color: black;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+    
+}
+
+.posters {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: darkblue;
+    padding: 10px;
+    border-style: double;
+    border-color: blue;
+    }
+
+.nieuw2 {
+    display: inline-block;
+}
+h4 {
+    color: white;
+}
+body {
+    background-color: black;
+}
